@@ -70,7 +70,7 @@ By : ${('ARNAZX#9611')}
 >  ${(`Piala By Arnazx : ${trophy}`)}  
 >  ${(`Mahkota By Arnazx : ${crown}`)}
 >  ${(`Status : Success !`)}`));
-      await sleep(6500);
+      await sleep(7000);
 
     } else if (result == 'BANNED') {
       console.log(chalk.bgRed(`Mampus Banned Makanya jangan brutal`));
